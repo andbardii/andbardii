@@ -3,5 +3,5 @@
 Sono un ragazzo di 20 anni diplomato in Grafica e Comunicazione , ora sto frequentando un corso di Full Stack Develop presso Epicode School.
 
 Sono da sempre intenzionato a lavorare nel digitale ed ho basato la mia formazione su questa convinzione. Nel prossimi anni voglio continuare a formarmi ed a ricercare nuove tecnologie con le quali mettermi alla prova.
-
+# Scarica il mio CV
 [Curriculum Andrea Bardi.pdf](https://github.com/andbardii/andbardii/files/11788300/Curriculum.Andrea.Bardi.pdf)
