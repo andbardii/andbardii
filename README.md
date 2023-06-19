@@ -1,1 +1,1 @@
-(https://github.com/andbardii/andbardii/assets/126244632/d3124c2f-e586-4898-a45c-3b5567bd1a3e)
+![Red Elegant Minimalist Human Resource Linkedin Banner](https://github.com/andbardii/andbardii/assets/126244632/3d34f27f-bf07-4289-939f-e5d6b90e7c05)
