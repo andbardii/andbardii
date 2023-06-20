@@ -7,4 +7,5 @@ Sono un ragazzo di 20 anni diplomato in Grafica e Comunicazione , ora sto freque
 Sono da sempre intenzionato a lavorare nel digitale ed ho basato la mia formazione su questa convinzione. Nel prossimi anni voglio continuare a formarmi ed a ricercare nuove tecnologie con le quali mettermi alla prova.
 
 <b> Scarica il mio CV </b>
-[ Curriculum Andrea Bardi ](https://github.com/andbardii/andbardii/files/11788300/Curriculum.Andrea.Bardi.pdf)
+
+[Curriculum Andrea Bardi.pdf](https://github.com/andbardii/andbardii/files/11799209/Curriculum.Andrea.Bardi.pdf)
