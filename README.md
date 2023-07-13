@@ -8,5 +8,6 @@ Sono da sempre intenzionato a lavorare nel digitale ed ho basato la mia formazio
 
 <b> Scarica il mio </b>
 [Curriculum](https://github.com/andbardii/andbardii/files/11799209/Curriculum.Andrea.Bardi.pdf)
+
 <b> Colleghiamoci su </b>
 [Linkedin](https://www.linkedin.com/in/andbardii)
