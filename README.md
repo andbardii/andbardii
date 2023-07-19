@@ -6,8 +6,8 @@ I am a 20 year old boy graduated in graphics and communication, now I am attendi
 
 I have always wanted to work in digital, and I based my education on this belief. Over the next few years, I will continue to train and look for new technologies to test myself.
 
-<b> Download my CV </b>
+<b> Download my </b>
 [Curriculum](https://github.com/andbardii/andbardii/files/11799209/Curriculum.Andrea.Bardi.pdf)
 
-<b> Contact me on Linkedin </b>
+<b> Contact me on </b>
 [Linkedin](https://www.linkedin.com/in/andbardii)
