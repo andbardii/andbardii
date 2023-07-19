@@ -2,9 +2,9 @@
 ![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/b65c103f-8ad1-4d1e-a92f-3206afad0e7c)
 
 # About Me
-Sono un ragazzo di 20 anni diplomato in Grafica e Comunicazione , ora sto frequentando un corso di Full Stack Develop presso Epicode School.
+I am a 20 year old boy graduated in graphics and communication, now I am attending a Full Stack Develop course at Epicode School.
 
-Sono da sempre intenzionato a lavorare nel digitale ed ho basato la mia formazione su questa convinzione. Nel prossimi anni voglio continuare a formarmi ed a ricercare nuove tecnologie con le quali mettermi alla prova.
+I have always wanted to work in digital, and I based my education on this belief. Over the next few years, I will continue to train and look for new technologies to test myself.
 
 <b> Scarica il mio </b>
 [Curriculum](https://github.com/andbardii/andbardii/files/11799209/Curriculum.Andrea.Bardi.pdf)
