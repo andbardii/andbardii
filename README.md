@@ -1,5 +1,5 @@
 
-![Red Elegant Minimalist Human Resource Linkedin Banner (2)](https://github.com/andbardii/andbardii/assets/126244632/395364cc-29aa-4b34-b704-1223d3ef61ad)
+![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/b65c103f-8ad1-4d1e-a92f-3206afad0e7c)
 
 # About Me
 Sono un ragazzo di 20 anni diplomato in Grafica e Comunicazione , ora sto frequentando un corso di Full Stack Develop presso Epicode School.
