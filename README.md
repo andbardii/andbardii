@@ -6,8 +6,8 @@ I am a 20 year old boy graduated in Graphics and Communication, now I am attendi
 I have always wanted to work in digital, and I based my education on this belief. Over the next few years, I will continue to train and look for new technologies to test myself.
 
 <b> Download my Curriculum </b>
-[ENG](https://github.com/andbardii/andbardii/files/12503460/Curriculum.ENG.pdf)
-[ ITA](https://github.com/andbardii/andbardii/files/12503462/Curriculum.ITA.pdf)
+[ENG ](https://github.com/andbardii/andbardii/files/12503460/Curriculum.ENG.pdf)
+- [ ITA](https://github.com/andbardii/andbardii/files/12503462/Curriculum.ITA.pdf)
 
 
 <b> Contact me on </b>
