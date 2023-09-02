@@ -1,13 +1,14 @@
-
-![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/b65c103f-8ad1-4d1e-a92f-3206afad0e7c)
+![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/9936cf3c-d98b-4c3d-b0ea-1a80fb5cdd7d)
 
 # About Me
 I am a 20 year old boy graduated in Graphics and Communication, now I am attending a Full Stack Develop course at Epicode School.
 
 I have always wanted to work in digital, and I based my education on this belief. Over the next few years, I will continue to train and look for new technologies to test myself.
 
-<b> Download my </b>
-[Curriculum](https://github.com/andbardii/andbardii/files/11799209/Curriculum.Andrea.Bardi.pdf)
+<b> Download my Curriculum </b>
+[ENG.pdf](https://github.com/andbardii/andbardii/files/12503460/Curriculum.ENG.pdf)
+[ ITA.pdf](https://github.com/andbardii/andbardii/files/12503462/Curriculum.ITA.pdf)
+
 
 <b> Contact me on </b>
 [Linkedin](https://www.linkedin.com/in/andbardii)
