@@ -25,4 +25,8 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-![Illustrator](https://img.shields.io/badge/Illustrator-%FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-orange.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-blue.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![InDesign](https://img.shields.io/badge/InDesign-fucsia.svg?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![Premiere](https://img.shields.io/badge/Premiere-purple.svg?style=for-the-badge&logo=adobe-premiere&logoColor=white)
+
