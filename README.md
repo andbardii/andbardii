@@ -20,7 +20,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-white?style=for-the-badge&logo=chart.js)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white")
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white")
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
