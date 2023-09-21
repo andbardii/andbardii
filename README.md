@@ -33,7 +33,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 ## My biggest passions are
 
-<h2>💻</h2> Technology and Innovation.
+<b>💻</b> Technology and Innovation.
 
 🖌 Graphic and Creative Design.
 
