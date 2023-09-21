@@ -28,7 +28,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23E34F26.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![In Design](https://img.shields.io/badge/InDesign-purple.svg?style=for-the-badge&logo=adobe-indesign&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/PremierePro-purple.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-blue.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 
