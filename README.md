@@ -31,7 +31,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-## My biggest passions are:
+## My biggest passions are
 
 💻 Technology and Innovation.
 
@@ -39,7 +39,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 🗺 Travel and discover different cultures.
 
-## The soft skills I’ve worked on the most:
+## The soft skills I’ve worked on the most
 
 🫱🏻‍🫲🏼 Collaboration above all else. 
 
