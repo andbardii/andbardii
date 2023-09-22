@@ -5,7 +5,7 @@ My name is Andrea and I am a 20 years old boy, graduate with excellent marks in 
 
 I have always wanted to work in digital and I based my studies on this belief. In the coming years, however, I want to continue to train and research new technologies with which to test myself. 
 
-I'm looking for a junior position as front or back developer to apply and improve my skills.s, I will continue to train and look for new technologies to test myself.
+I'm looking for a junior position as front or back developer to apply and improve my skills.
 
 <b> Contact me on </b>
 [Linkedin](https://www.linkedin.com/in/andbardii)
