@@ -18,6 +18,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase)
+![NgRx](https://img.shields.io/badge/NgRx-purple?style=for-the-badge&logo=NgRx&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-white?style=for-the-badge&logo=chart.js)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white")
