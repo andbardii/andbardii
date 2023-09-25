@@ -7,8 +7,9 @@ I have always wanted to work in digital and I based my studies on this belief. I
 
 I'm looking for a junior position as front or back developer to apply and improve my skills.
 
-<b> Contact me on </b>
-[Linkedin](https://www.linkedin.com/in/andbardii)
+<b> Contact me on </b>[Linkedin](https://www.linkedin.com/in/andbardii)
+
+<b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
 ## My skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
