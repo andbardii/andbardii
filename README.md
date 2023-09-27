@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/9936cf3c-d98b-4c3d-b0ea-1a80fb5cdd7d)
+![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/87980cce-dffb-4815-85ae-281dcf8a454c)
 
 # About Me
 My name is Andrea and I am a 20 years old boy, graduate with excellent marks in Graphics and Communication, now I have finished a high training course as a Full Stack Developer at Epicode.
