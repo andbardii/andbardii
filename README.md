@@ -1,6 +1,6 @@
 ![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/87980cce-dffb-4815-85ae-281dcf8a454c)
 
-# About Me
+<h1>About Me</h1>
 My name is Andrea and I am a 20 years old boy, graduate with excellent marks in Graphics and Communication, now I have finished a high training course as a Full Stack Developer at Epicode.
 
 I have always wanted to work in digital and I based my studies on this belief. In the coming years, however, I want to continue to train and research new technologies with which to test myself. 
@@ -11,7 +11,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
-## My skills
+<h2>My skills</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -33,7 +33,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-## My biggest passions are
+<h2>My biggest passions are</h2>
 
 💻 Technology and Innovation.
 
@@ -41,7 +41,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 🗺 Travel and discover different cultures.
 
-## The soft skills I’ve worked on the most
+<h2>The soft skills I’ve worked on the most</h2>
 
 🫱🏻‍🫲🏼 Collaboration above all else. 
 
