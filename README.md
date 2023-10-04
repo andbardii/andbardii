@@ -1,6 +1,7 @@
 ![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/87980cce-dffb-4815-85ae-281dcf8a454c)
 
-<h1>About Me</h1>
+<h1>👨‍💻 About Me</h1>
+
 My name is Andrea and I am a 20 years old boy, graduate with excellent marks in Graphics and Communication, now I have finished a high training course as a Full Stack Developer at Epicode.
 
 I have always wanted to work in digital and I based my studies on this belief. In the coming years, however, I want to continue to train and research new technologies with which to test myself. 
@@ -11,7 +12,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
-<h2>My skills</h2>
+<h2>💻 My skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,6 +34,12 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![In Design](https://img.shields.io/badge/InDesign-purple.svg?style=for-the-badge&logo=adobe-indesign&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+<h2>📊 GitHub Stats</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andbardii&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2>My biggest passions are</h2>
 
