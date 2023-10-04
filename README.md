@@ -37,9 +37,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=andbardii&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
 
 <h2>My biggest passions are</h2>
 
