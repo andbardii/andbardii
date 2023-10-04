@@ -8,9 +8,9 @@ I have always wanted to work in digital and I based my studies on this belief. I
 
 I'm looking for a junior position as front or back developer to apply and improve my skills.
 
-<h4> Contact me on </h4>[Linkedin](https://www.linkedin.com/in/andbardii)
+<b> Contact me on </b>[Linkedin](https://www.linkedin.com/in/andbardii)
 
-<h4> Visit my </h4>[Online Page](https://andbardii.github.io/portfolio/)
+<b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
 <h2>💻 My skills</h2>
 
