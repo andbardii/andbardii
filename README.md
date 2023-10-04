@@ -12,6 +12,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
 <h2>My skills</h2>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
