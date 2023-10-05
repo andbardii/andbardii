@@ -12,7 +12,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
-<h2>💻 My skills</h2>
+<h2>💻 My Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,8 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 ![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
 
-<h2>My biggest passions are</h2>
+
+<h3>My biggest passions are</h3>
 
 💻 Technology and Innovation.
 
@@ -47,7 +48,8 @@ I'm looking for a junior position as front or back developer to apply and improv
 
 🗺 Travel and discover different cultures.
 
-<h2>The soft skills I’ve worked on the most</h2>
+
+<h3>The soft skills I’ve worked on the most</h3>
 
 🫱🏻‍🫲🏼 Collaboration above all else. 
 
