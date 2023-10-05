@@ -38,7 +38,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 <h2>📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-
+<br>
 
 <h3>My biggest passions are</h3>
 
@@ -47,7 +47,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 🖌 Graphic and Creative Design.
 
 🗺 Travel and discover different cultures.
-
+<br>
 
 <h3>The soft skills I’ve worked on the most</h3>
 
