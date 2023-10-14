@@ -35,12 +35,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 ![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
-<h2>📊 GitHub Stats</h2>
-
-![](https://github-readme-stats.vercel.app/api?username=andbardii&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-<br>
-
-<h3>My biggest passions are</h3>
+<h4>My biggest passions are</h4>
 
 💻 Technology and Innovation.
 
@@ -49,7 +44,7 @@ I'm looking for a junior position as front or back developer to apply and improv
 🗺 Travel and discover different cultures.
 <br>
 
-<h3>The soft skills I’ve worked on the most</h3>
+<h4>The soft skills I’ve worked on the most</h4>
 
 🫱🏻‍🫲🏼 Collaboration above all else. 
 
