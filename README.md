@@ -2,11 +2,13 @@
 
 <h1>👨‍💻 About Me</h1>
 
-My name is Andrea and I am a 20 years old boy, graduate with excellent marks in Graphics and Communication, now I have finished a high training course as a Full Stack Developer at Epicode.
+🙋🏻‍♂️ My name is Andrea and I am a 21 years old boy graduate in Graphics and Communication, I have finished a high training course as a Full Stack Developer at Epicode and I have recently joined the developer team at CADENAS Italiana as a Junior Developer.
 
-I have always wanted to work in digital and I based my studies on this belief. In the coming years, however, I want to continue to train and research new technologies with which to test myself. 
+💻 I have always wanted to work in digital and I based my training on this belief. In the coming years I want to continue to train and research new technologies with which to test myself, aware of the challenge undertaken by choosing to become a programmer.
 
-I'm looking for a junior position as front or back developer to apply and improve my skills.
+🗣️ I have so many passions like technology, innovation, creative design, travel or finance, looking for a place to share my interests I found in LinkedIn the ideal platform and for a year now I publish short content of all kinds here on my profile.
+
+🦾 The soft skills I can count on are a collaborative personality, a great spirit of adaptation and the certainty of being 100% involved in what I do.
 
 <b> Contact me on </b>[Linkedin](https://www.linkedin.com/in/andbardii)
 
