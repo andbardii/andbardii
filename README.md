@@ -32,7 +32,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-59666C?style=for-the-badge&logo=sql&logoColor=white)
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23E34F26.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-blue.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
