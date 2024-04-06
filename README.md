@@ -14,8 +14,6 @@
 
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
 
-<b> Look at my </b>[LeetCode Results](https://leetcode.com/andbardii/)
-
 <h2>💻 My Skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
