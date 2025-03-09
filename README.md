@@ -1,58 +1,15 @@
-![Banner GitHub](https://github.com/andbardii/andbardii/assets/126244632/87980cce-dffb-4815-85ae-281dcf8a454c)
-
 <h1>👨‍💻 About Me</h1>
 
-🙋🏻‍♂️ My name is Andrea and I am a 21 year old graduate in Graphics and Communication, I later decided to take a course of high training as a Full Stack Developer at Epicode.
+📌 With @FAM Vision I deal with website and web app development, branding and rebranding, social management and much more, in short, if you need a new digital identity, optimized and unique, whether for you or for your company, you are in the right place!
+
+🙋🏻‍♂️ My name is Andrea and I am a 22 years old graduate in Graphics and Communication, I later decided to take a course of high training as a Full Stack Developer at Epicode.
 
 💻 I have always wanted to work in digital and I based my training on this belief. In the coming years I want to continue to train and research new technologies with which to test myself, aware of the challenge undertaken by choosing to become a programmer.
 
-🗣️ I have so many passions like technology, innovation, creative design, travel or finance, looking for a place to share my interests I found in LinkedIn the ideal platform and for a year now I publish short content of all kinds here on my profile.
+🗣️ I have so many passions like technology, innovation, creative design, travel and finance.
 
 🦾 The soft skills I can count on are a collaborative personality, a great spirit of adaptation and the certainty of being 100% involved in what I do.
 
 <b> Contact me on </b>[Linkedin](https://www.linkedin.com/in/andbardii)
 
 <b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
-
-<h2>💻 My Skills</h2>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-blue.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-white?style=for-the-badge&logo=firebase&logoColor=orange)
-![NgRx](https://img.shields.io/badge/NgRx-purple?style=for-the-badge&logo=NgRx&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-white?style=for-the-badge&logo=chart.js)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white")
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![ZSH](https://img.shields.io/badge/zsh-green?style=for-the-badge&logo=zsh&logoColor=white)
-
-![Illustrator](https://img.shields.io/badge/Illustrator-%23E34F26.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-blue.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![In Design](https://img.shields.io/badge/InDesign-purple.svg?style=for-the-badge&logo=adobe-indesign&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/PremierePro-%238511FA.svg?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%23007ACC.svg?style=for-the-badge&logo=canva&logoColor=white)
-
-<h4>My biggest passions are:</h4>
-
-💻 Technology and Innovation.
-
-🖌 Graphic and Creative Design.
-
-🗺 Travel and discover different cultures.
-<br>
-
-<h4>The soft skills I’ve worked on the most:</h4>
-
-🫱🏻‍🫲🏼 Collaboration above all else. 
-
-⚙️ Problem solving.
-
-📚 Interfacing with new technologies.
-
-💯 Always 100% involved in what I do.
