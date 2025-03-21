@@ -10,6 +10,4 @@
 
 🦾 The soft skills I can count on are a collaborative personality, a great spirit of adaptation and the certainty of being 100% involved in what I do.
 
-<b> Contact me on </b>[Linkedin](https://www.linkedin.com/in/andbardii)
-
-<b> Visit my </b>[Online Page](https://andbardii.github.io/portfolio/)
+<b> Contact me on [Linkedin](https://www.linkedin.com/in/andbardii) or visit my [Online Page](https://andbardii.github.io/portfolio/)</b>
