@@ -4,7 +4,7 @@
 
 🙋🏻‍♂️ My name is Andrea and I am a 22 years old graduate in Graphics and Communication, I later decided to take a course of high training as a Full Stack Developer at Epicode.
 
-💻 I have always wanted to work in digital and I based my training on this belief. In the coming years I want to continue to train and research new technologies with which to test myself, aware of the challenge undertaken by choosing to become a programmer.
+💻 I have always wanted to work in digital and I based my training on this belief. In the coming years I want to continue to train and research new technologies with which to test myself, aware of the challenge undertaken by choosing to become a developer.
 
 🗣️ I have so many passions like technology, innovation, creative design, travel and finance.
 
