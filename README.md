@@ -4,7 +4,7 @@
 
 <h1></h1>
 
-🙋🏻‍♂️ My name is Andrea and I am a 22 years old graduate in Graphics and Communication, I later decided to take a course of high training as a Full Stack Developer and now I'm following the Bachelor's Degree in Computer Engineering & Artificial Intelligence at Epicode.
+🙋🏻‍♂️ My name is Andrea and I am a 23 years old graduate in Graphics and Communication, I later decided to take a course of high training as a Full Stack Developer and now I'm following the Bachelor's Degree in Computer Engineering & Artificial Intelligence at Epicode.
 
 💻 I have always wanted to work in digital and I based my training on this belief. In the coming years I want to continue to train and research new technologies with which to test myself, aware of the challenge undertaken by choosing to become a developer.
 
